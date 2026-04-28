@@ -1,0 +1,14 @@
+D:\Augusto\Proyectos\desafio1\bin\Debug\net10.0\desafio1.exe
+D:\Augusto\Proyectos\desafio1\bin\Debug\net10.0\desafio1.deps.json
+D:\Augusto\Proyectos\desafio1\bin\Debug\net10.0\desafio1.runtimeconfig.json
+D:\Augusto\Proyectos\desafio1\bin\Debug\net10.0\desafio1.dll
+D:\Augusto\Proyectos\desafio1\bin\Debug\net10.0\desafio1.pdb
+D:\Augusto\Proyectos\desafio1\obj\Debug\net10.0\desafio1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Augusto\Proyectos\desafio1\obj\Debug\net10.0\desafio1.AssemblyInfoInputs.cache
+D:\Augusto\Proyectos\desafio1\obj\Debug\net10.0\desafio1.AssemblyInfo.cs
+D:\Augusto\Proyectos\desafio1\obj\Debug\net10.0\desafio1.csproj.CoreCompileInputs.cache
+D:\Augusto\Proyectos\desafio1\obj\Debug\net10.0\desafio1.dll
+D:\Augusto\Proyectos\desafio1\obj\Debug\net10.0\refint\desafio1.dll
+D:\Augusto\Proyectos\desafio1\obj\Debug\net10.0\desafio1.pdb
+D:\Augusto\Proyectos\desafio1\obj\Debug\net10.0\desafio1.genruntimeconfig.cache
+D:\Augusto\Proyectos\desafio1\obj\Debug\net10.0\ref\desafio1.dll
